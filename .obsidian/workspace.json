@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "5878b345f9cf8ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5796b51664cbe812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b41a406c39097d90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "219f306413cd4078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598600188f144097",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "063df28512d6f29e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a00210b0affc55a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee73cb3b4e11714",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beda30e273756669",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd90a53c12bade2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8579257872b942cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e5f1e958766eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898597a8d4c72efa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1dae41a395aa8a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9024d29b387d3b6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68e6c245258814e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b41a406c39097d90",
+  "lastOpenFiles": [
+    "AI/cs231n/notes.md",
+    "AI/cs231n/lecture1.md",
+    "AI/cs231n",
+    "AI/新建文件夹",
+    "AI",
+    "新建文件夹",
+    "cs",
+    "Untitled.md",
+    "README.md",
+    "notes/README.md",
+    "notes",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}
