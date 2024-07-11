@@ -6,13 +6,18 @@
       {
         "id": "5796b51664cbe812",
         "type": "tabs",
+        "dimension": 50.989010989010985,
         "children": [
           {
             "id": "b41a406c39097d90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/cs231n/lecture2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -20,6 +25,7 @@
       {
         "id": "219f306413cd4078",
         "type": "tabs",
+        "dimension": 49.01098901098901,
         "children": [
           {
             "id": "598600188f144097",
@@ -152,8 +158,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ee73cb3b4e11714",
+  "active": "598600188f144097",
   "lastOpenFiles": [
+    "AI/cs231n/lecture2.md",
     "AI/cs231n/slides/lecture_2.pdf",
     "AI/cs231n/slides/lecture_2.pdf.crdownload",
     "AI/cs231n/slides",
