@@ -31,8 +31,12 @@
             "id": "598600188f144097",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/cs231n/lecture2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -162,24 +166,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "598600188f144097",
+  "active": "b41a406c39097d90",
   "lastOpenFiles": [
+    "AI/cs231n/图片/13.png",
+    "AI/cs231n/codeTest/lecture3.ipynb",
+    "AI/cs231n/codeTest",
+    "AI/cs231n/新建文件夹",
+    "AI/cs231n/图片/12 (1).png",
+    "AI/cs231n/图片/12.png",
+    "AI/cs231n/lecture3.md",
     "AI/cs231n/lecture2.md",
+    "AI/cs231n/lecture1.md",
     "AI/cs231n/slides/lecture_2.pdf",
     "AI/cs231n/slides/lecture_2.pdf.crdownload",
     "AI/cs231n/slides",
-    "AI/cs231n/新建文件夹",
     "AI/cs231n/notes.md",
-    "AI/cs231n/lecture1.md",
     "AI/cs231n",
     "AI/新建文件夹",
     "AI",
     "新建文件夹",
-    "cs",
     "Untitled.md",
     "README.md",
     "notes/README.md",
-    "notes",
     "欢迎.md",
     "创建链接.md"
   ]
