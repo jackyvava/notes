@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5796b51664cbe812",
+        "id": "0b8c73f3749d09ec",
         "type": "tabs",
-        "dimension": 50.989010989010985,
         "children": [
           {
-            "id": "b41a406c39097d90",
+            "id": "73369f86553b694c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/cs231n/lecture2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "219f306413cd4078",
-        "type": "tabs",
-        "dimension": 49.01098901098901,
-        "children": [
-          {
-            "id": "598600188f144097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/cs231n/lecture2.md",
+                "file": "AI/cs231n/lecture4.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/cs231n/lecture2.md",
+                "file": "AI/cs231n/lecture4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/cs231n/lecture2.md",
+                "file": "AI/cs231n/lecture4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/cs231n/lecture2.md"
+                "file": "AI/cs231n/lecture4.md"
               }
             }
           }
@@ -166,8 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b41a406c39097d90",
+  "active": "73369f86553b694c",
   "lastOpenFiles": [
+    "AI/cs231n/lecture3.md",
+    "AI/cs231n/lecture4.md",
+    "未命名.canvas",
+    "随机梯度下降.md",
+    "AI/cs231n/lecture2.md",
+    "AI/cs231n/图片/18.png",
+    "AI/cs231n/图片/17.png",
+    "CG/CMU_DDG/slides/DDG-Overview.pdf",
     "AI/cs231n/图片/16 (1).png",
     "AI/cs231n/图片/16.png",
     "AI/cs231n/图片/15.png",
@@ -178,8 +166,6 @@
     "AI/cs231n/新建文件夹",
     "AI/cs231n/图片/12 (1).png",
     "AI/cs231n/图片/12.png",
-    "AI/cs231n/lecture3.md",
-    "AI/cs231n/lecture2.md",
     "AI/cs231n/lecture1.md",
     "AI/cs231n/slides/lecture_2.pdf",
     "AI/cs231n/slides/lecture_2.pdf.crdownload",
@@ -188,7 +174,6 @@
     "AI/cs231n",
     "AI/新建文件夹",
     "AI",
-    "新建文件夹",
     "Untitled.md",
     "README.md",
     "notes/README.md",
