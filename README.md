@@ -1,2 +1,4 @@
 # notes
 learning notes 
+
+math
