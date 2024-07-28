@@ -271,7 +271,7 @@ $$
 
 ### 二阶优化（Second-Order Optimization）
 
-二阶优化算法不仅使用梯度信息，还使用<font color='orange'>Hessian矩阵</font>（即目标函数的二阶导数）来进行优化。常见的二阶优化算法包括牛顿法（Newton's Method）。
+二阶优化算法不仅使用梯度信息，还使用<font color='orange'>Hessian矩阵</font>（即==目标函数的二阶导数==）来进行优化。常见的二阶优化算法包括牛顿法（Newton's Method）。
 
 #### 步骤
 
