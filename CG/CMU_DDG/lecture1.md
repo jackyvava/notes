@@ -12,15 +12,15 @@
 
 曲线长度 $L(\gamma)$ 可以表示为积分形式：
 $$
-\text{length}(\gamma) = \int_0^L |\gamma'(s)| \, ds
+\text{length}(\gamma) = \int_0^L |\gamma'(s)| \, ds
 $$
 其中 $\gamma'(s)$ 是曲线 $\gamma$ 在点 $s$ 处的导数，表示曲线的切向量。 现在我们考虑曲线 $\gamma$ 在扰动 $\epsilon \eta$ 下的长度变化：
 $$
-\text{length}(\gamma + \epsilon \eta) = \int_0^L |\gamma'(s) + \epsilon \eta'(s)| \, ds
+\text{length}(\gamma + \epsilon \eta) = \int_0^L |\gamma'(s) + \epsilon \eta'(s)| \, ds
 $$
 我们对 $\epsilon$ 求导，并在 $\epsilon = 0$ 时计算变化率：
 $$
-\left. \frac{d}{d\epsilon} \right|_{\epsilon=0} \text{length}(\gamma + \epsilon \eta)
+\left. \frac{d}{d\epsilon} \right|_{\epsilon=0} \text{length}(\gamma + \epsilon \eta)
 $$
 具体来说，我们利用 $\eta$ 的边界条件以及法向量和曲率的关系，可以得到：
 $$
@@ -36,7 +36,7 @@ $$
 $$
 \mathbb{\nabla}_b\ell  =(b-a)/\ell
 $$
- 
+
 
 离散曲率：
 
